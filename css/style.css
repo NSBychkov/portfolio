@@ -106,6 +106,10 @@ ol li {margin-bottom: 20px}
   .left-text {text-align: left}
 }
 
+  .padlist{
+    padding-left: 20px;
+  }
+
 .cl-effect-7 a {
 	padding: 12px 10px 10px;
 	color: #566473;
