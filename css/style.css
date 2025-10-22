@@ -32,9 +32,9 @@ h3.heading {font-size: 28px;font-weight: 500}
 .panel {
   text-align:center;
   border: 1px solid gainsboro;
-  margin: 7% auto;
+  margin: 2% auto;
   background-color: #f6f5f5;
-  padding: 5%;
+  padding: 2%;
 }
 
 @media (min-width: 1451px) {
